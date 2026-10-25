@@ -1,0 +1,22 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+.cache/
+tmp/
+build/
+dist/
+/output.csv
+/code.zip
+/agent-trace/
+/agent-trace.zip
+/dataset/
+*.pem
+*.key
+credentials*
+# log.txt is required for the separate transcript submission; keep it visible.

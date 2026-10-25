@@ -1,0 +1,4 @@
+# Python 3.11+; standard library for structured formats/indexing.
+# PDF adapter requires local Poppler pdftotext on PATH (declared external tool).
+# PNG adapter: optional Pillow, or pre-existing Windows System.Drawing via PowerShell.
+# No OCR/VLM provider is used. Missing decoders produce explicit failed extraction.
